@@ -7,7 +7,7 @@ Random things I find interesting and used myself in the Internet
 
   Sometimes a device will not automatically fill out the APN of a SIM Card. The OS may not be able to read the MNC and MCC and some other details, thus, having to manually encode them to the system.
 
-  ##### Solution: 
+  ##### Solution
   1. Go to Access Point Name setting of SIM
   2. Add your internet name (preferably DITO Sim or something along the line)
   3. Set the APN to **internet.dito.ph**
