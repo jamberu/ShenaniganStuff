@@ -67,4 +67,22 @@ Sometimes, you want a specific build number of your device model. Sometimes, you
 ### Credits
 [**RFT Tool by Narender Singh and Hikari Calyx**](https://xdaforums.com/t/tool-rft-realme-flash-tool-to-flash-stock-rom-for-unlocked-bootloader.4144969/)
 
+## Spotify Patcher for Windows, Mac, and Linux
 
+Ads are intrusive. Great people made these patchers for spotify in different operating systems to removea ads and improve usage. 
+
+### For Windows
+[**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot)
+
+### For Mac and Linux
+[**SpotX-Bash**](https://github.com/SpotX-Official/SpotX-Bash)
+
+
+## Microsoft Activation Scripts
+Activator for your Windows Operating System and Microsoft Software. Usage is as simple as downloading and running.
+
+### For Downloading Windows and Software
+[**Massgrave.dev**](https://massgrave.dev/)
+
+### For the script to run
+[**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts)
