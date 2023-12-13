@@ -1,6 +1,9 @@
 # ShenaniganStuff
 
-Random things I find interesting and used myself in the Internet
+Random things I find interesting and used myself in the Internet. This should not be taken too seriously as the guides listed are just whatever worked for ME and might or might not work for YOU.
+
+With those said, feel free to browse through my compilation!
+
 
 ## Dito Sim Access Point Name
 > Experienced On: Rising OS and possibly other Custom ROMs (haven't tested) of Android
@@ -72,6 +75,10 @@ Sometimes, you want a specific build number of your device model. Sometimes, you
 Ads are intrusive. Great people made these patchers for spotify in different operating systems to removea ads and improve usage. 
 
 ### For Windows
+Running the Windows PowerShell command is the easiest option. It does everything for you. Just remember to enable PowerShell to run scripts if you are not able to execute scripts.
+To enable PowerShell executing scripts, run the Windows PowerShell as administrator and running `set-executionpolicy remotesigned` to permanently allow PowerShell to run unsigned scripts.
+There's also an option from Settings but I forgot how to do it.
+
 [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot)
 
 ### For Mac and Linux
