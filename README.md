@@ -60,7 +60,9 @@ Custom ROMs are great for debloating devices and possibly increasing performance
 [**Android Partition**](https://source.android.com/docs/core/architecture/bootloader)
   
 ## RealMe Flash Tool
-Sometimes, you want a specific build number of your device model. Sometimes, you were dumdum while installing a Custom ROM or rooting your device, thus, bricking your phone. For Realme 6 pro devices, there is a tool for flashing stock ROMs made by the people at XDAForums. The tool is available for Windows 7 and higher. The last release was from 2021 and may be outdated now. (Haven't used it again but worked last 2022)
+> Used once last 2022 and haven't tried since
+
+Sometimes, you want a specific build number of your device model. Sometimes, you were dumdum while installing a Custom ROM or rooting your device, thus, bricking your phone. For Realme 6 pro devices, there is a tool for flashing stock ROMs made by the people at XDAForums. The tool is available for Windows 7 and higher. The last release was from 2021 and may be outdated now.
 
 ### Credits
 [**RFT Tool by Narender Singh and Hikari Calyx**](https://xdaforums.com/t/tool-rft-realme-flash-tool-to-flash-stock-rom-for-unlocked-bootloader.4144969/)
