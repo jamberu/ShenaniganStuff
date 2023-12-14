@@ -34,7 +34,7 @@ With those said, feel free to browse through my compilation!
 
 *Assuming you already have bootloader unlocked and other prerequisite stuff*
   
-Custom ROMs are great for debloating devices and possibly increasing performance and user experience. There are many great Custom ROMs for Android and maybe even your specific mobile brand. Xiaomi, Asus, Samsung, Poco, and many more have great range of available Custom ROMs for their different models of mobile devices. THe downside of flashing a Custom ROM into your device is the risk of bricking, voiding warranty, preventing proper function of some specific applications.
+Custom ROMs are great for debloating devices and possibly increasing performance and user experience. There are many great Custom ROMs for Android and maybe even your specific mobile brand. Xiaomi, Asus, Samsung, Poco, and many more have great range of available Custom ROMs for their different models of mobile devices. The downside of flashing a Custom ROM into your device is the risk of bricking, voiding warranty, preventing proper function of some specific applications.
 
 ### Method
 1. Download OrangeFox Recovery Project that's fitted for your device model to your internal phone storage
@@ -69,7 +69,7 @@ Custom ROMs are great for debloating devices and possibly increasing performance
 ## RealMe Flash Tool
 > Used once last 2022 and haven't tried since
 
-Sometimes, you want a specific build number of your device model. Sometimes, you were dumdum while installing a Custom ROM or rooting your device, thus, bricking your phone. For Realme 6 pro devices, there is a tool for flashing stock ROMs made by the people at XDAForums. The tool is available for Windows 7 and higher. The last release was from 2021 and may be outdated now.
+Sometimes, you want a specific model of your device. Sometimes, you were dumdum while installing a Custom ROM or rooting your device, thus, bricking your phone. For Realme 6 pro devices, there is a tool for flashing stock ROMs made by the people at XDAForums. The tool is available for Windows 7 and higher. The last release was from 2021 and may be outdated now.
 
 ### Credits
 [**RFT Tool by Narender Singh and Hikari Calyx**](https://xdaforums.com/t/tool-rft-realme-flash-tool-to-flash-stock-rom-for-unlocked-bootloader.4144969/)
